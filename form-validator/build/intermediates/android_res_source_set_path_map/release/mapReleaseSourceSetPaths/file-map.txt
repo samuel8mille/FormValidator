@@ -1,0 +1,9 @@
+com.github.samuel8mille.formvalidator.form-validator-pngs-0 /Users/samuelribeiro/AndroidStudioProjects/FormValidator/form-validator/build/generated/res/pngs/release
+com.github.samuel8mille.formvalidator.form-validator-updated_navigation_xml-1 /Users/samuelribeiro/AndroidStudioProjects/FormValidator/form-validator/build/generated/updated_navigation_xml/release
+com.github.samuel8mille.formvalidator.form-validator-mergeReleaseResources-2 /Users/samuelribeiro/AndroidStudioProjects/FormValidator/form-validator/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.github.samuel8mille.formvalidator.form-validator-mergeReleaseResources-3 /Users/samuelribeiro/AndroidStudioProjects/FormValidator/form-validator/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.github.samuel8mille.formvalidator.form-validator-release-4 /Users/samuelribeiro/AndroidStudioProjects/FormValidator/form-validator/build/intermediates/merged_res/release/mergeReleaseResources
+com.github.samuel8mille.formvalidator.form-validator-release-5 /Users/samuelribeiro/AndroidStudioProjects/FormValidator/form-validator/build/intermediates/packaged_res/release/packageReleaseResources
+com.github.samuel8mille.formvalidator.form-validator-main-6 /Users/samuelribeiro/AndroidStudioProjects/FormValidator/form-validator/src/main/res
+com.github.samuel8mille.formvalidator.form-validator-release-7 /Users/samuelribeiro/AndroidStudioProjects/FormValidator/form-validator/src/release/res
+gradleHome-0 /Users/samuelribeiro/.gradle

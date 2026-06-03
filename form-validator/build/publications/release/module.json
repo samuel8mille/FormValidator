@@ -1,0 +1,110 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.samuel8mille",
+    "module": "form-validator",
+    "version": "1.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.5.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.9.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.2.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "form-validator-1.0.0.aar",
+          "url": "form-validator-1.0.0.aar",
+          "size": 7740,
+          "sha512": "abeeca84c1d1f283f8f6740a237fa232488854e522d1f65a4c00d673f59afde49b80f97a8582643695f4dc5dffe569bd4fd7703ec5765c7481114fd925a2dc10",
+          "sha256": "dfe3a1f2864ee3232fab03595ad085e4af6e4752752b22e020b3bd9b786eab2a",
+          "sha1": "ca8441553bb8bc8ea4503f71691e989fec336f68",
+          "md5": "42d3de7872564657ef00121b4b0ba676"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.annotation",
+          "module": "annotation",
+          "version": {
+            "requires": "1.9.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.2.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "form-validator-1.0.0.aar",
+          "url": "form-validator-1.0.0.aar",
+          "size": 7740,
+          "sha512": "abeeca84c1d1f283f8f6740a237fa232488854e522d1f65a4c00d673f59afde49b80f97a8582643695f4dc5dffe569bd4fd7703ec5765c7481114fd925a2dc10",
+          "sha256": "dfe3a1f2864ee3232fab03595ad085e4af6e4752752b22e020b3bd9b786eab2a",
+          "sha1": "ca8441553bb8bc8ea4503f71691e989fec336f68",
+          "md5": "42d3de7872564657ef00121b4b0ba676"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "form-validator-1.0.0-sources.jar",
+          "url": "form-validator-1.0.0-sources.jar",
+          "size": 2590,
+          "sha512": "e6e8039c2707ed268a1530ee1a9a654a3882aca01e9931d332fdd8d8f21e28981749f9259e2c1620b3a645bb2874f38310ca5b2893bc49f3b5d3a4c83ab82f3e",
+          "sha256": "5236ee8d9cd2d914479e59003f0290aad1d23b4afe494c8fd1316591eefbf414",
+          "sha1": "924651a6ca6526b2b24f4d068087401ea577142c",
+          "md5": "c380ab7b1e66b8f2c35387a9c8b3f06f"
+        }
+      ]
+    }
+  ]
+}
